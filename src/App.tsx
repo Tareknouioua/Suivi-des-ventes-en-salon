@@ -1,6 +1,6 @@
 // src/App.tsx
 import { useState } from "react";
-import "./App.css";
+import "./app.css";
 
 type Form = {
   coiffeuse: string;
